@@ -12,7 +12,7 @@ Collection of g files for an SM-2 conductance injection system
 Follow the instruction of the manufactures' docs and the reference below.
 
 ## DOI
-none yet
+[![DOI](https://zenodo.org/badge/130068971.svg)](https://zenodo.org/badge/latestdoi/130068971)
 
 ## Versioning
 We use [SemVer](http://semver.org/) for versioning.
