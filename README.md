@@ -1,4 +1,4 @@
-# SM2ConductanceInjection
+# SM2CInjection
 Collection of g files for an SM-2 conductance injection system
 
 ## Getting Started
