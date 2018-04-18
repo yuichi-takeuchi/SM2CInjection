@@ -9,7 +9,7 @@ Collection of g files for an SM-2 conductance injection system
 * P25M board (Innovative Integration)
 
 ### How to use
-Follow the instruction of the manufactures' docs and the refference below.
+Follow the instruction of the manufactures' docs and the reference below.
 
 ## DOI
 none yet
